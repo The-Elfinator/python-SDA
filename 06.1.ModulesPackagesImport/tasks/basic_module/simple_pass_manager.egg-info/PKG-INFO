@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: simple_pass_manager
+Version: 0.0.69
+Summary: meemees
+Author: Aboba Abobovich
+Author-email: aboba@gmail.com
+License: BSD 3-Clause License
+Keywords: pass,password,manager
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: cryptography
